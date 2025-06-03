@@ -78,12 +78,3 @@ class Blockchain:
             block['hash']=self.hash(block)
             new_chain.append(block)
         self.chain =new_chain
-
-    def mine_block(self,data):
-        block=self.add_block(data)
-        print(json.dumps(block, indent=4))   
-
-    def view_blockchain(self):
-        response = {'chain': self.chain,
-                    'length': len(self.chain)}
-        print(json.dumps(response, indent=4))    
