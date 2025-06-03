@@ -1,5 +1,5 @@
 import streamlit as st
-from blockchain_code import Blockchain
+from blockchain import Blockchain
 
 st.set_page_config(page_title="Blockchain App",layout="wide")
 st.title("⛓️ Blockchain Interaction App")
