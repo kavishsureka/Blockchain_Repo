@@ -89,7 +89,3 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
-#column1, column2 = st.columns(2)
-#column1.markdown("[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/kavishsureka)")
-#column2.markdown(“[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/kavish-sureka-bb2b4731a/)”)
