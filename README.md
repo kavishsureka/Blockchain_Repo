@@ -3,7 +3,7 @@ This project implements a basic blockchain from scratch using Python. It demonst
 
 ## Deployment Link
 
-**https://blockchain-app.streamlit.app/**
+**https://kavishblockchain.streamlit.app/**
 
 ## Steps to Install:
 ```
